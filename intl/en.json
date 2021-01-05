@@ -1,0 +1,11 @@
+{
+  "TOAST_NOTIFICATION.INFO.LABEL": "info",
+  "TOAST_NOTIFICATION.SUCCESS.LABEL": "success",
+  "TOAST_NOTIFICATION.WARNING.LABEL": "warning",
+  "TOAST_NOTIFICATION.ERROR.LABEL": "error",
+
+  "FORM_VALIDATION.REQUIRED": "This field is required",
+  "FORM_VALIDATION.EMAIL_INVALID": "Invalid email",
+  "FORM_VALIDATION.PASSWORD_MIN_LENGTH": "Password must have at least 6 characters",
+  "FORM_VALIDATION.CONFIRM_PASSWORD_NOT_MATCH": "Confirm password does not match"
+}

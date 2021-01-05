@@ -8,7 +8,7 @@ import styles from '../styles/Home.module.css';
 const Home = () => (
   <div className={styles.container}>
     <Head>
-      <title>Creaadasdate Next App</title>
+      <title>Testing Next App</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
